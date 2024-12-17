@@ -1,1 +1,1 @@
-import './load.js';
+import './modules/load.js';
