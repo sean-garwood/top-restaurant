@@ -11,6 +11,8 @@ export const load = (() => {
       callback();
     });
   }
+
+  home();
 })();
 
 function getFunctionName(button) {
