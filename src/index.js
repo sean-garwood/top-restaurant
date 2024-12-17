@@ -1,1 +1,1 @@
-console.log('we got smoke');
+import './load.js';
